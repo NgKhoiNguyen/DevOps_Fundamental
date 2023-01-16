@@ -5,11 +5,11 @@ RUN mkdir /app
 
 WORKDIR /app
 
-COPY buildanddeploy/package.json /app
+COPY 20127261_20127547/package.json /app
 
 RUN npm install
 
-COPY buildanddeploy/ /app
+COPY 20127261_20127547/ /app
 
 EXPOSE 3000
 
