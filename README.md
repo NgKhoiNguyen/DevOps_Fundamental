@@ -6,6 +6,3 @@ Implementing CI/CD using:
 - Git
 - Jenkins
 - Docker
-
-# Demo
-Demo link is attached to the folder.
