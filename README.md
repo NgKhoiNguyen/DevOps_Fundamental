@@ -1,5 +1,5 @@
 # DevOps Fundamental
-The main purpose of this project is to explain DevOps's best practices and implement the CI/CD process at a basic level.
+The main purpose of this project is to implement the CI/CD process at a basic level.
 
 # Feature
 Implementing CI/CD using:
